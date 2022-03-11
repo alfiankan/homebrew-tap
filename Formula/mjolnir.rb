@@ -3,7 +3,7 @@ class Mjolnir < Formula
   homepage "https://github.com/alfiankan/mjolnir"
   url "https://github.com/alfiankan/mjolnir/releases/download/1.0.1/mjolnir-mac.tar.gz"
   sha256 "06457e3fa81a441b766c08ac0a6847d172c9186c3c73cdf8e9ca024e6931f371"
-  version "1.0.1"
+  version "1.0.2"
 
   
   def install
