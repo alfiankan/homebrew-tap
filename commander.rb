@@ -1,4 +1,4 @@
-class Glow < Formula
+class Commander < Formula
   desc "Commander TUI create, run, share and promt snippets and command with Ease"
   homepage "https://alfiankan.github.io/commander-charts"
   version "0.1.0"
